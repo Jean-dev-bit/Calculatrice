@@ -6,7 +6,7 @@
 
 /*Préréquis*/
 
-Langage Html
+Langage HTML
 langage CSS
 langage JS
 
